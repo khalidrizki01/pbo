@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\bin\Debug\Duit Tracker.exe.config
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\bin\Debug\Duit Tracker.exe
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\bin\Debug\Duit Tracker.pdb
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit Tracker.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit_Tracker.Form1.resources
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit_Tracker.Properties.Resources.resources
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit Tracker.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit Tracker.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit Tracker.exe
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit Tracker.pdb
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\bin\Debug\DuitLibrary.dll
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\bin\Debug\DuitLibrary.pdb
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit Tracker.csproj.CopyComplete
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit_Tracker.TransaksiPendapatan.resources
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit_Tracker.TransaksiPengeluaran.resources
+C:\Users\USER\source\repos\pbo\Duit Tracker\Duit Tracker\obj\Debug\Duit_Tracker.Form2.resources

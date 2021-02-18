@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\pbo\Duit Tracker\DuitLibrary\bin\Debug\DuitLibrary.dll
+C:\Users\USER\source\repos\pbo\Duit Tracker\DuitLibrary\bin\Debug\DuitLibrary.pdb
+C:\Users\USER\source\repos\pbo\Duit Tracker\DuitLibrary\obj\Debug\DuitLibrary.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\pbo\Duit Tracker\DuitLibrary\obj\Debug\DuitLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\pbo\Duit Tracker\DuitLibrary\obj\Debug\DuitLibrary.dll
+C:\Users\USER\source\repos\pbo\Duit Tracker\DuitLibrary\obj\Debug\DuitLibrary.pdb
